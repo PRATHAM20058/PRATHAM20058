@@ -9,7 +9,6 @@ Passionate about ethical hacking, penetration testing, and network security. Act
 ## 📫 Contact Me
 
 - 📧 Email: [parmarpratham44@gmail.com](mailto:parmarpratham44@gmail.com)
-- 📱 Phone: +91 9427512951
 - 🏠 Location: Palanpur, Gujarat, India
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pratham-parmar-2555bb2b7)
 - 🛡️ [TryHackMe](https://tryhackme.com/p/parmarpratham44)
