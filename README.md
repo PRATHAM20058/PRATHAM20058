@@ -37,9 +37,9 @@ Passionate about ethical hacking, penetration testing, and network security. Act
 
 | Certification | Institution | Duration | [View Certificate] |
 |---------------|-------------|----------|-------------------|
-| TryHackMe Pre-Security Learning Path | TryHackMe | Active Learner | [View](https://drive.google.com/file/d/1SeUDm8O78zAS2GDhwZ2dbGAQb4vGbYJt/view?usp=sharing) |
-| NPTEL Ethical Hacking (Elite) | IIT Kharagpur | Jul-Oct 2025 | [View](https://drive.google.com/file/d/1u2_J1tiiSsokii2itWuLcIKVJL0DYw-f/view?usp=sharing) |
-| ML for Cyber Security Bootcamp | C-DAC Hyderabad | Oct 2025 | [View](https://drive.google.com/file/d/16Cmi2f1wLcOoRMec9OMCqOAETopasrGu/view?usp=sharing) |
+| TryHackMe Pre-Security Learning Path | TryHackMe | Active Learner | [View](https://tryhackme.com/certificate/THM-MJT6UDMOJW) |
+| NPTEL Ethical Hacking (Elite) | IIT Kharagpur | Jul-Oct 2025 | [View](https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs142/Course/NPTEL25CS142S105060083310707313.pdf) |
+| ML for Cyber Security Bootcamp | C-DAC Hyderabad | Oct 2025 | [View](https://cybersecurityskills.in/training/mod/customcert/verify_certificate.php?code=stsCkxolci&qrcode=1) |
 | Computer Networking Fundamentals | LearnVern | Completed | - |
 
 <br/>
