@@ -171,19 +171,21 @@ PROJECT_01 / FRONTEND
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PRATHAM20058&show_icons=true&hide_border=true&bg_color=060a0f&title_color=00ff41&icon_color=4a7a55&text_color=c8ffd4&ring_color=00ff41&rank_icon=percentile&include_all_commits=true" height="158" />
+<img src="https://github-readme-stats.vercel.app/api?username=PRATHAM20058&show_icons=true&hide_border=true&bg_color=060a0f&title_color=00ff41&icon_color=4a7a55&text_color=c8ffd4&count_private=true&hide=contribs" height="158" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM20058&layout=compact&hide_border=true&bg_color=060a0f&title_color=00ff41&text_color=c8ffd4&langs_count=5" height="158" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRATHAM20058&hide_border=true&background=060a0f&stroke=0b1118&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=c8ffd4&currStreakLabel=4a7a55&sideLabels=4a7a55&dates=4a7a55" />
+<img src="https://streak-stats.demolab.com?user=PRATHAM20058&hide_border=true&background=060a0f&stroke=0b1118&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=c8ffd4&currStreakLabel=4a7a55&sideLabels=4a7a55&dates=4a7a55&mode=weekly" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRATHAM20058&bg_color=060a0f&color=00ff41&line=4a7a55&point=00ff41&area=true&area_color=0b1118&hide_border=true" width="94%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRATHAM20058&bg_color=060a0f&color=00ff41&line=4a7a55&point=00ff41&area=true&area_color=0b1118&hide_border=true&radius=4" width="94%" />
 
 </div>
+
+> 💡 **Note:** Stats cards show data from public repositories only. Private repo contributions appear after enabling them in GitHub profile settings → *Include private contributions on my profile.*
 
 ---
 
