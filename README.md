@@ -32,15 +32,15 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│  $ whoami                                                            │
-│                                                                      │
-│  NAME     →  Pratham Parmar                                          │
-│  ROLE     →  Cybersecurity Enthusiast · CE Student                   │
-│  COLLEGE  →  Government Engineering College, Palanpur                │
-│  CPI      →  7.98 / 10                                               │
-│  LOCATE   →  Palanpur, Gujarat, India                                │
-│  EMAIL    →  parmarpratham44@gmail.com                               │
-│  STATUS   →  [██████████] ACTIVE — hunting CVEs, cracking CTFs       │
+│  $ whoami                                                           │
+│                                                                     │
+│  NAME     →  Pratham Parmar                                         │
+│  ROLE     →  Cybersecurity Enthusiast · CE Student                  │
+│  COLLEGE  →  Government Engineering College, Palanpur               │
+│  CPI      →  7.98 / 10                                              │
+│  LOCATE   →  Palanpur, Gujarat, India                               │
+│  EMAIL    →  parmarpratham44@gmail.com                              │
+│  STATUS   →  [██████████] ACTIVE — hunting CVEs, cracking CTFs      │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -63,12 +63,12 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                                                          CPI         │
-│  B.E. Computer Engineering                                           │
+│                                                          CPI        │
+│  B.E. Computer Engineering                                          │
 │  Government Engineering College, Palanpur              7.98         │
 │  2023 – Present  ·  Palanpur, Gujarat, India            / 10        │
-│                                                                      │
-│  ● Status: ACTIVE                                                    │
+│                                                                     │
+│  ● Status: ACTIVE                                                   │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -120,17 +120,17 @@ Penetration Testing      [███████░░░]  72%
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│  01  Pre-Security Learning Path                                      │
-│      TryHackMe  ·  Active Learner                        [ VIEW → ] │
+│  01  Pre-Security Learning Path                                     │
+│      TryHackMe  ·  Active Learner                                   │
 ├─────────────────────────────────────────────────────────────────────┤
-│  02  Ethical Hacking                              ★ ELITE            │
-│      IIT Kharagpur · NPTEL  ·  Jul – Oct 2025            [ VIEW → ] │
+│  02  Ethical Hacking                                                │
+│      IIT Kharagpur · NPTEL  ·  Jul – Oct 2025                       │
 ├─────────────────────────────────────────────────────────────────────┤
-│  03  ML for Cyber Security Bootcamp                                  │
-│      C-DAC Hyderabad  ·  Oct 2025                        [ VIEW → ] │
+│  03  ML for Cyber Security Bootcamp                                 │
+│      C-DAC Hyderabad  ·  Oct 2025                                   │
 ├─────────────────────────────────────────────────────────────────────┤
-│  04  Computer Networking Fundamentals                                │
-│      LearnVern  ·  Completed                             [ DONE ✓ ] │
+│  04  Computer Networking Fundamentals                               │
+│      LearnVern  ·  Completed                                        │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
