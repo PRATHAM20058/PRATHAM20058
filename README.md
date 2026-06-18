@@ -50,13 +50,27 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/─_EMAIL_─_parmarpratham44@gmail.com-0b1118?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0b1118)](mailto:parmarpratham44@gmail.com)
+<a href="mailto:parmarpratham44@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-parmarpratham44%40gmail.com-0b1118?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0b1118&color=0b1118" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/─_LINKEDIN_─_pratham--parmar-0b1118?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0b1118)](https://www.linkedin.com/in/pratham-parmar-2555bb2b7)
+<br/><br/>
 
-[![TryHackMe](https://img.shields.io/badge/─_TRYHACKME_─_parmarpratham44-0b1118?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0b1118)](https://tryhackme.com/p/parmarpratham44)
+<a href="https://www.linkedin.com/in/pratham-parmar-2555bb2b7">
+  <img src="https://img.shields.io/badge/LINKEDIN-pratham--parmar-0b1118?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0b1118&color=0b1118" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/─_GITHUB_─_PRATHAM20058-0b1118?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0b1118)](https://github.com/PRATHAM20058)
+<br/><br/>
+
+<a href="https://tryhackme.com/p/parmarpratham44">
+  <img src="https://img.shields.io/badge/TRYHACKME-parmarpratham44-0b1118?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0b1118&color=0b1118" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/PRATHAM20058">
+  <img src="https://img.shields.io/badge/GITHUB-PRATHAM20058-0b1118?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0b1118&color=0b1118" />
+</a>
 
 </div>
 
