@@ -272,20 +272,29 @@ Currently expanding across Offensive Security, Red Team Operations, Cloud Securi
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRATHAM20058&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRATHAM20058&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=PRATHAM20058&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PRATHAM20058&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PRATHAM20058&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+    <img src="https://streak-stats.demolab.com?user=PRATHAM20058&hide_border=true" width="49%" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAM20058&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="40%" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PRATHAM20058&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PRATHAM20058&layout=compact&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/>
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRATHAM20058&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRATHAM20058&theme=github_dark" width="98%" alt="Contribution Graph"/>
 </div>
 
 <br/>
