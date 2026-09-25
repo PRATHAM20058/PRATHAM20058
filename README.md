@@ -1,20 +1,17 @@
 <div align="center">
 
-  <!-- HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,50:161b22,100:0d1117&text=PRATHAM%20PARMAR&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Cybersecurity%20Researcher%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Penetration%20Tester&descAlignY=55&descSize=16&descColor=8b949e&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:003300,100:000000&text=PRATHAM%20PARMAR&fontSize=50&fontColor=00ff41&fontAlignY=35&desc=Cybersecurity%20Researcher%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Penetration%20Tester&descAlignY=55&descSize=16&descColor=00cc33&animation=fadeIn" width="100%"/>
 
-  <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=%24+./exploit.sh+--target+knowledge;Initializing+offensive+security+protocols..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=%24+./exploit.sh+--target+knowledge;Initializing+offensive+security+protocols..." alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- PROFILE BADGES -->
-  <a href="https://github.com/PRATHAM20058"><img src="https://img.shields.io/badge/PRATHAM20058-181717?style=flat-square&logo=github&logoColor=58a6ff" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gj-cp-gecpl-2027-027-pratham/"><img src="https://img.shields.io/badge/Pratham_Parmar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/parmarpratham44"><img src="https://img.shields.io/badge/parmarpratham44-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=PRATHAM20058&style=flat-square&color=161b22&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://github.com/PRATHAM20058"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00ff41" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gj-cp-gecpl-2027-027-pratham/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00ff41" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/parmarpratham44"><img src="https://img.shields.io/badge/TryHackMe-000000?style=flat-square&logo=tryhackme&logoColor=00ff41" alt="TryHackMe"/></a>&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=PRATHAM20058&style=flat-square&color=000000&label=VISITORS" alt="Profile Views"/>
 
 </div>
 
@@ -34,7 +31,7 @@ education:
   degree: B.E. Computer Engineering
   institute: Government Engineering College, Palanpur
   cgpa: 8.63
-  
+
 interests:
   - Offensive Security & Red Teaming
   - Penetration Testing & Vulnerability Research
@@ -80,11 +77,11 @@ BUILD > BREAK > LEARN > SECURE
 
 <br/>
 
-<img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logoColor=58a6ff"/>&nbsp;
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logoColor=00ff41"/>&nbsp;
+<img src="https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=00ff41"/>&nbsp;
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=00ff41"/>&nbsp;
+<img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=00ff41"/>&nbsp;
+<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=00ff41"/>
 
 <br/><br/>
 
@@ -144,9 +141,9 @@ BUILD > BREAK > LEARN > SECURE
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_19-000000?style=flat-square&logo=react&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=00ff41"/>
 </div>
 
 <br/>
@@ -169,9 +166,9 @@ College Festival Registration Portal — a serverless SPA featuring animated mic
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Ionic_8-3880FF?style=flat-square&logo=ionic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular_20-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ionic_8-000000?style=flat-square&logo=ionic&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/Angular_20-000000?style=flat-square&logo=angular&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=00ff41"/>
 </div>
 
 <br/>
@@ -196,8 +193,8 @@ Offline-first cross-platform POS application for retail billing. QR/barcode scan
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00ff41"/>
 </div>
 
 <br/>
@@ -272,29 +269,21 @@ Currently expanding across Offensive Security, Red Team Operations, Cloud Securi
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=PRATHAM20058&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PRATHAM20058&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PRATHAM20058&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
-    <img src="https://streak-stats.demolab.com?user=PRATHAM20058&hide_border=true" width="49%" alt="GitHub Streak"/>
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=PRATHAM20058&hide_border=true&background=000000&stroke=003300&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&currStreakNum=00ff41&sideNums=00cc33&dates=006600" width="60%" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PRATHAM20058&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PRATHAM20058&layout=compact&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/>
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PRATHAM20058&theme=transparent" width="32%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PRATHAM20058&theme=transparent" width="32%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PRATHAM20058&theme=transparent" width="32%" alt="Most Commit Language"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRATHAM20058&theme=github_dark" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRATHAM20058&theme=transparent" width="98%" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -304,5 +293,5 @@ Currently expanding across Offensive Security, Red Team Operations, Cloud Securi
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:161b22,100:0d1117&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:003300,100:000000&section=footer" width="100%"/>
 </div>
